@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Multimodal-AI-Models/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multimodal-AI-Models?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Multimodal-AI-Models/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multimodal-AI-Models?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Multimodal-AI-Models/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multimodal-AI-Models?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Multimodal-AI-Models/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT"/></a>
@@ -74,114 +74,114 @@ Frontier cloud providers offering hosted APIs, developer SDKs, and consumer work
 
 ## 🌐 Open-Source GitHub Projects (Ranked by Stars)
 
-A comprehensive index of open-source multimodal models, vision-language architectures, evaluation frameworks, and robotics libraries. Each repository is equipped with an official social star badge linking directly to its stargazers page, sorted in **descending order by GitHub star count**.
+A comprehensive index of open-source multimodal models, vision-language architectures, evaluation frameworks, and robotics libraries. Each repository is equipped with an official social Stars_Badge linking directly to its stargazers page, sorted in **descending order by GitHub Stars_Count**.
 
-### 1. 🤖 [LeRobot](https://github.com/huggingface/lerobot) [![GitHub stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)
+### 1. 🤖 [LeRobot](https://github.com/huggingface/lerobot) [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/lerobot?style=social&color=white)](https://github.com/huggingface/lerobot/stargazers)
 - **Primary Domain:** Embodied AI & Robotics Vision-Language-Action (VLA)
 - **License:** Apache 2.0
 - **Key Highlights:** Hugging Face’s flagship open-source robotics library built in PyTorch. Provides end-to-end learning pipelines from human demonstrations, teleoperation, simulation-to-real robot transfer, and pretrained policy checkpoints for physical manipulation tasks.
 
-### 2. ⚡ [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social&color=white)](https://github.com/OpenBMB/MiniCPM-V/stargazers)
+### 2. ⚡ [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) [![GitHub_Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social&color=white)](https://github.com/OpenBMB/MiniCPM-V/stargazers)
 - **Primary Domain:** Ultra-Efficient Edge & Mobile Multimodal Reasoning (MiniCPM-V 4.5 / 2.6)
 - **License:** Apache 2.0
 - **Key Highlights:** Revolutionary 8B edge model family matching and surpassing much larger models (GPT-4o-latest, Qwen2.5-VL-72B) on multiple benchmarks. Utilizes a unified 3D-Resampler architecture achieving **96x visual token compression** (compressing 6 consecutive 448×448 frames into just 64 visual tokens). Features hybrid reinforcement learning saving 30% training costs.
 
-### 3. 🖥️ [OmniParser](https://github.com/microsoft/OmniParser) [![GitHub stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social&color=white)](https://github.com/microsoft/OmniParser/stargazers)
+### 3. 🖥️ [OmniParser](https://github.com/microsoft/OmniParser) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social&color=white)](https://github.com/microsoft/OmniParser/stargazers)
 - **Primary Domain:** Vision-Based Screen Parsing for GUI Autonomous Agents
 - **License:** MIT
 - **Key Highlights:** Microsoft’s pure vision screen-parsing module that transforms raw UI screenshots into structured interactive bounding boxes and text semantics. Empowers multimodal models to navigate desktop OSs, web browsers, and smartphones without relying on HTML DOM trees.
 
-### 4. 👁️ [LLaVA](https://github.com/haotian-liu/LLaVA) [![GitHub stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social&color=white)](https://github.com/haotian-liu/LLaVA/stargazers)
+### 4. 👁️ [LLaVA](https://github.com/haotian-liu/LLaVA) [![GitHub_Stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social&color=white)](https://github.com/haotian-liu/LLaVA/stargazers)
 - **Primary Domain:** Visual Instruction Tuning & Foundation Vision-Language Model
 - **License:** Apache 2.0 / LLaVA Custom
 - **Key Highlights:** The pioneering open-source Vision-Language framework that established the visual instruction tuning paradigm. Pairs a CLIP/SigLIP vision encoder with Vicuna/Llama backbones, forming the empirical foundation and baseline for subsequent open-weights VLM research.
 
-### 5. 🇨🇳 [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-VL/stargazers)
+### 5. 🇨🇳 [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-VL/stargazers)
 - **Primary Domain:** Frontier Vision-Language Family (3B, 7B, 72B & MoE Variants)
 - **License:** Apache 2.0
 - **Key Highlights:** Alibaba Cloud's flagship open-weights multimodal model. Features dynamic-resolution Vision Transformer with Interleaved-MRoPE (Multimodal Rotary Position Embedding), native support for 128k+ token context windows, hours-long video understanding, pixel-accurate visual grounding, and computer-use agent capabilities.
 
-### 6. 🎯 [Segment Anything 2 (SAM 2)](https://github.com/facebookresearch/segment-anything-2) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/segment-anything-2?style=social&color=white)](https://github.com/facebookresearch/segment-anything-2/stargazers)
+### 6. 🎯 [Segment Anything 2 (SAM 2)](https://github.com/facebookresearch/segment-anything-2) [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/segment-anything-2?style=social&color=white)](https://github.com/facebookresearch/segment-anything-2/stargazers)
 - **Primary Domain:** Promptable Visual & Video Segmentation
 - **License:** Apache 2.0
 - **Key Highlights:** Meta AI's unified foundation model for promptable visual segmentation across static images and real-time streaming videos. Incorporates a streaming memory attention architecture that propagates target entity masks across temporal video frames in real time.
 
-### 7. 🎨 [Janus / Janus-Pro](https://github.com/deepseek-ai/Janus) [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social&color=white)](https://github.com/deepseek-ai/Janus/stargazers)
+### 7. 🎨 [Janus / Janus-Pro](https://github.com/deepseek-ai/Janus) [![GitHub_Stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social&color=white)](https://github.com/deepseek-ai/Janus/stargazers)
 - **Primary Domain:** Unified Multimodal Understanding & Visual Generation
 - **License:** Apache 2.0
 - **Key Highlights:** DeepSeek’s novel multimodal model architecture that decouples visual encoding pathways into separate processing streams for visual comprehension (SigLIP) and visual generation (vector-quantized image tokenizer). Eliminates feature conflict between understanding and image generation.
 
-### 8. 🦾 [OpenPI (π₀ / Pi-Zero)](https://github.com/Physical-Intelligence/openpi) [![GitHub stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=social&color=white)](https://github.com/Physical-Intelligence/openpi/stargazers)
+### 8. 🦾 [OpenPI (π₀ / Pi-Zero)](https://github.com/Physical-Intelligence/openpi) [![GitHub_Stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi?style=social&color=white)](https://github.com/Physical-Intelligence/openpi/stargazers)
 - **Primary Domain:** Physical Intelligence & Flow-Matching Robotics Policy
 - **License:** Apache 2.0
 - **Key Highlights:** Official open-source implementation and weights for physical robotics models by Physical Intelligence. Utilizes flow-matching continuous-action experts grafted onto discrete Vision-Language Models to perform complex dexterous tasks like folding laundry and box packing.
 
-### 9. 🖱️ [UI-TARS](https://github.com/ByteDance/UI-TARS) [![GitHub stars](https://img.shields.io/github/stars/ByteDance/UI-TARS?style=social&color=white)](https://github.com/ByteDance/UI-TARS/stargazers)
+### 9. 🖱️ [UI-TARS](https://github.com/ByteDance/UI-TARS) [![GitHub_Stars](https://img.shields.io/github/stars/ByteDance/UI-TARS?style=social&color=white)](https://github.com/ByteDance/UI-TARS/stargazers)
 - **Primary Domain:** Native End-to-End GUI Agent for Computer Interaction
 - **License:** Apache 2.0
 - **Key Highlights:** ByteDance's multimodal GUI agent model that perceives operating system desktop, web, and mobile screen pixels to directly output keyboard keystrokes and mouse click coordinates without intermediary optical character recognition or DOM access.
 
-### 10. 🔬 [LAVIS](https://github.com/salesforce/LAVIS) [![GitHub stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social&color=white)](https://github.com/salesforce/LAVIS/stargazers)
+### 10. 🔬 [LAVIS](https://github.com/salesforce/LAVIS) [![GitHub_Stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social&color=white)](https://github.com/salesforce/LAVIS/stargazers)
 - **Primary Domain:** Language-Vision Intelligence Library (BLIP, InstructBLIP, BLIP-2)
 - **License:** BSD-3-Clause
 - **Key Highlights:** Salesforce Research’s one-stop deep learning library for multimodal machine learning. Powers foundational architectures such as BLIP, BLIP-2 (Q-Former cross-attention connector), and InstructBLIP for multimodal text-image generation and retrieval.
 
-### 11. 🚀 [Mistral-Inference (Pixtral)](https://github.com/mistralai/mistral-inference) [![GitHub stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social&color=white)](https://github.com/mistralai/mistral-inference/stargazers)
+### 11. 🚀 [Mistral-Inference (Pixtral)](https://github.com/mistralai/mistral-inference) [![GitHub_Stars](https://img.shields.io/github/stars/mistralai/mistral-inference?style=social&color=white)](https://github.com/mistralai/mistral-inference/stargazers)
 - **Primary Domain:** Reference Inference Engine for Pixtral 12B & Pixtral Large
 - **License:** Apache 2.0
 - **Key Highlights:** Mistral AI’s official inference engine supporting Pixtral 12B, featuring a 400M parameter 2D RoPE Vision Transformer natively handling arbitrary image aspect ratios and arbitrary resolutions up to 1024×1024 without cropping or padding.
 
-### 12. 🏆 [InternVL / InternVL3.5](https://github.com/OpenGVLab/InternVL) [![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&color=white)](https://github.com/OpenGVLab/InternVL/stargazers)
+### 12. 🏆 [InternVL / InternVL3.5](https://github.com/OpenGVLab/InternVL) [![GitHub_Stars](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&color=white)](https://github.com/OpenGVLab/InternVL/stargazers)
 - **Primary Domain:** Frontier Open-Source Multimodal Family (1B to 241B)
 - **License:** Apache 2.0
 - **Key Highlights:** Flagship multimodal family by OpenGVLab. Features InternVL3.5-241B-A28B scoring 77.7 on MMMU (the highest open-source score). Incorporates dynamic visual resolution routing (ViR), 92.9 on ScreenSpot-v2 GUI localization, embodied spatial navigation, and native SVG vector graphics generation.
 
-### 13. 🌙 [Moondream](https://github.com/vikhyat/moondream) [![GitHub stars](https://img.shields.io/github/stars/vikhyat/moondream?style=social&color=white)](https://github.com/vikhyat/moondream/stargazers)
+### 13. 🌙 [Moondream](https://github.com/vikhyat/moondream) [![GitHub_Stars](https://img.shields.io/github/stars/vikhyat/moondream?style=social&color=white)](https://github.com/vikhyat/moondream/stargazers)
 - **Primary Domain:** Ultra-Lightweight (1.8B) Edge Vision-Language Model
 - **License:** Apache 2.0
 - **Key Highlights:** Compact vision model designed from scratch to run anywhere—including browser environments via WebAssembly, Raspberry Pi, Apple Silicon, and edge IoT devices—with sub-second response times for visual QA and object detection.
 
-### 14. 🇨🇳 [GLM-4 / GLM-4V](https://github.com/THUDM/GLM-4) [![GitHub stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social&color=white)](https://github.com/THUDM/GLM-4/stargazers)
+### 14. 🇨🇳 [GLM-4 / GLM-4V](https://github.com/THUDM/GLM-4) [![GitHub_Stars](https://img.shields.io/github/stars/THUDM/GLM-4?style=social&color=white)](https://github.com/THUDM/GLM-4/stargazers)
 - **Primary Domain:** Open Bilingual & Multimodal Models (GLM-4V-9B)
 - **License:** Apache 2.0
 - **Key Highlights:** THUDM/Zhipu AI’s open-source multimodal backbone. Supports high-resolution 1120×1120 inputs, complex visual document reasoning, and multi-turn bilingual vision-language conversations.
 
-### 15. 🧠 [CogVLM / CogVLM2](https://github.com/THUDM/CogVLM) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVLM?style=social&color=white)](https://github.com/THUDM/CogVLM/stargazers)
+### 15. 🧠 [CogVLM / CogVLM2](https://github.com/THUDM/CogVLM) [![GitHub_Stars](https://img.shields.io/github/stars/THUDM/CogVLM?style=social&color=white)](https://github.com/THUDM/CogVLM/stargazers)
 - **Primary Domain:** Visual Expert Language Model
 - **License:** Apache 2.0
 - **Key Highlights:** Deep visual-language fusion model that adds dedicated visual expert modules in attention layers and FFNs, eliminating the bottleneck of shallow projector adapters and enabling deep multimodal reasoning.
 
-### 16. 📜 [Qwen-VL](https://github.com/QwenLM/Qwen-VL) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social&color=white)](https://github.com/QwenLM/Qwen-VL/stargazers)
+### 16. 📜 [Qwen-VL](https://github.com/QwenLM/Qwen-VL) [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social&color=white)](https://github.com/QwenLM/Qwen-VL/stargazers)
 - **Primary Domain:** Predecessor Multimodal Baseline Series
 - **License:** Apache 2.0
 - **Key Highlights:** The foundational multimodal version of the Qwen series that first introduced position-aware vision perception, multi-image input dialogues, and fine-grained bounding-box grounding.
 
-### 17. 🔮 [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2?style=social&color=white)](https://github.com/deepseek-ai/DeepSeek-VL2/stargazers)
+### 17. 🔮 [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) [![GitHub_Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2?style=social&color=white)](https://github.com/deepseek-ai/DeepSeek-VL2/stargazers)
 - **Primary Domain:** Mixture-of-Experts (MoE) Vision-Language Architecture
 - **License:** DeepSeek License
 - **Key Highlights:** DeepSeek’s advanced MoE VLM family (featuring Tiny, Small, and Standard variants). Employs dynamic high-resolution tile partitioning to process intricate charts, tables, and ultra-high-resolution documents with sparse activation efficiency.
 
-### 18. 📏 [LMMS-Eval](https://github.com/EvolvingLMMs-Lab/LMMS-Eval) [![GitHub stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LMMS-Eval?style=social&color=white)](https://github.com/EvolvingLMMs-Lab/LMMS-Eval/stargazers)
+### 18. 📏 [LMMS-Eval](https://github.com/EvolvingLMMs-Lab/LMMS-Eval) [![GitHub_Stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/LMMS-Eval?style=social&color=white)](https://github.com/EvolvingLMMs-Lab/LMMS-Eval/stargazers)
 - **Primary Domain:** Standardized Multimodal Evaluation & Benchmarking Suite
 - **License:** Apache 2.0
 - **Key Highlights:** The de facto community standard acceleration toolkit for Large Multimodal Model evaluation. Unifies 50+ benchmarks (MMMU, MathVista, VideoMME, HallusionBench, MME, RealWorldQA) with one-line command reproducibility.
 
-### 19. 🗣️ [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-Omni/stargazers)
+### 19. 🗣️ [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) [![GitHub_Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni?style=social&color=white)](https://github.com/QwenLM/Qwen2.5-Omni/stargazers)
 - **Primary Domain:** Unified Any-to-Any Text, Vision, Audio & Speech Generation
 - **License:** Apache 2.0
 - **Key Highlights:** End-to-end multimodal omni-model perceiving text, vision, and audio while generating low-latency streaming speech and text. Built on the Thinker-Talker dual-track architecture with Time-aligned Multimodal RoPE (TMRoPE) for synchronous timestamp grounding.
 
-### 20. 📝 [InternLM-XComposer](https://github.com/internlm/InternLM-XComposer) [![GitHub stars](https://img.shields.io/github/stars/internlm/InternLM-XComposer?style=social&color=white)](https://github.com/internlm/InternLM-XComposer/stargazers)
+### 20. 📝 [InternLM-XComposer](https://github.com/internlm/InternLM-XComposer) [![GitHub_Stars](https://img.shields.io/github/stars/internlm/InternLM-XComposer?style=social&color=white)](https://github.com/internlm/InternLM-XComposer/stargazers)
 - **Primary Domain:** Interleaved Free-Form Text-Image Composition & Synthesis
 - **License:** Apache 2.0
 - **Key Highlights:** Advanced vision-language model tailored for long-context multimodal reading and rich interleaved article composition with automatically situated relevant illustrations.
 
-### 21. 💬 [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social&color=white)](https://github.com/open-mmlab/Multimodal-GPT/stargazers)
+### 21. 💬 [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) [![GitHub_Stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social&color=white)](https://github.com/open-mmlab/Multimodal-GPT/stargazers)
 - **Primary Domain:** Vision-Language Instruction Fine-Tuning
 - **License:** Apache 2.0
 - **Key Highlights:** OpenMMLab’s vision-language dialogue system fine-tuned on OpenFlamingo to follow detailed user visual instructions for conversational multi-turn QA.
 
-### 22. 🦾 [MolmoAct2](https://github.com/allenai/molmoact2) [![GitHub stars](https://img.shields.io/github/stars/allenai/molmoact2?style=social&color=white)](https://github.com/allenai/molmoact2/stargazers)
+### 22. 🦾 [MolmoAct2](https://github.com/allenai/molmoact2) [![GitHub_Stars](https://img.shields.io/github/stars/allenai/molmoact2?style=social&color=white)](https://github.com/allenai/molmoact2/stargazers)
 - **Primary Domain:** Fully Open Vision-Language-Action (VLA) Model for Robotics
 - **License:** Apache 2.0
 - **Key Highlights:** Allen Institute for AI's (Ai2) open VLA model for real-world robotics. Built on the MolmoER backbone, featuring the OpenFAST action tokenizer and trained on 720 hours of teleoperated bimanual trajectories across five distinct robot embodiments.
