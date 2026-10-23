@@ -33,6 +33,7 @@
 - [🧭 Multimodal Architectural Paradigms](#-multimodal-architectural-paradigms)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & License](#️-disclaimer--license)
 
@@ -246,6 +247,30 @@ Contributions are warmly encouraged! Help keep this multimodal directory up to d
 4. **Submit a Pull Request** with a concise description of your additions.
 
 Explore more curated developer lists at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using **Awesome Multimodal AI Models**! This directory is maintained with deep appreciation for the global open-source AI community, researchers, and engineers pushing the boundaries of vision-language, audio, and robotic intelligence.
+
+If you find this repository helpful for your projects, research, or team, please consider supporting us:
+
+- ⭐ **Star this repository:** Give the repo a star at the top right of this page—it boosts discovery and helps other developers find quality open multimodal resources.
+- 🍴 **Fork & Experiment:** Fork the codebase to customize your own multimodal model evaluations or submit pull requests.
+- 📢 **Share with Peers:** Recommend this index on Twitter/X, LinkedIn, Discord communities, Reddit, and developer forums.
+- ☕ **Buy me a coffee / Sponsor:** If you'd like to directly support the time, continuous research, and compute spent curating and maintaining this project:
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+Visit the official [**GitHub Sponsor Dashboard (ishandutta2007)**](https://github.com/sponsors/ishandutta2007) to pledge support. Thank you for empowering open science and accessible AI! 🙌
 
 ---
 
