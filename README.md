@@ -1,6 +1,6 @@
 # Awesome-Multimodal-AI-Models
 
-# Top Multimodal AI Models Ecosystem
+## Top Multimodal AI Models Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Vision-Language Reasoning, Any-to-Any Generation & Efficient Edge Deployment*  
